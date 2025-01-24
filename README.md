@@ -1,1 +1,2 @@
-# Adam-time
+# adan-time
+time of adan by city
